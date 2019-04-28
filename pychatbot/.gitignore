@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.ipynb
+venv/
+.ipynb_checkpoints/
+juliosaraiva-8beefe5fb443.json
