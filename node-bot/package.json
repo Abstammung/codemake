@@ -1,0 +1,19 @@
+{
+  "name": "ChatBot",
+  "version": "1.0.0",
+  "description": "Telebot",
+  "main": "index.js",
+  "author": "CodeMake",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^0.5.1",
+    "dotenv": "^7.0.0",
+    "eslint": "^5.16.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.18.11",
+    "telebot": "^1.2.6"
+  }
+}
