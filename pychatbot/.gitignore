@@ -4,3 +4,4 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 juliosaraiva-8beefe5fb443.json
+.idea
