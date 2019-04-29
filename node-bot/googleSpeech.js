@@ -33,7 +33,6 @@ class SpeechGoogle {
       response.audioContent,
       "binary"
     );
-    console.log(audio);
     return console.log("Audio content written to file: output.mp3");
   }
 }
